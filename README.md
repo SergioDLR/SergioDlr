@@ -1,3 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A passionate frontend developer from Argentina ⭐⭐⭐</h3>
+<h1 align="center">Sergio Lopez Rey</h1>
+<h3 align="center"> ⭐⭐⭐</h3>
 
